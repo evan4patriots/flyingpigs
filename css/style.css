@@ -20,6 +20,13 @@ main > p {
   line-height: 25px;
   font-size: 18px;
 }
+
+main > h2 {
+  color: white;
+  margin-bottom: 15px;
+  line-height: 25px;
+  font-size: 30px;
+}
 main{
   width: 60%;
   margin: 0 auto;
