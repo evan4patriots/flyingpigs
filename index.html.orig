@@ -56,9 +56,12 @@
 </body>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
   <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<<<<<<< HEAD
 <script type="application/javascript">
 
 </script>
+=======
+>>>>>>> b704abb0a7c29932f7b5c81a2602f283f50de9e3
 
 
 
